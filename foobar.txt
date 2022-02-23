@@ -1,3 +1,1 @@
-Some content
-
-something else;
+- I can capture the output of "git remote -v" and store it into a variable
